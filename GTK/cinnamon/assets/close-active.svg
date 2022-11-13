@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Foreground"
+   width="26"
+   height="26"
+   enable-background="new 0 0 16 16"
+   version="1.0"
+   viewBox="0 0 18.909 18.909"
+   sodipodi:docname="close-active.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1825"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="9.0769231"
+     inkscape:cx="12.944915"
+     inkscape:cy="13"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Foreground" />
+  <defs
+     id="defs1816">
+    <filter
+       id="filter879"
+       x="-0.047999999"
+       y="-0.047999999"
+       width="1.096"
+       height="1.096"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.32"
+         id="feGaussianBlur1813" />
+    </filter>
+  </defs>
+  <path
+     d="m6.1115 5.7478c-0.092952 1e-7 -0.18588 0.035309-0.2571 0.10653-0.14245 0.14245-0.14245 0.37175 0 0.5142l3.0852 3.0866-3.0852 3.0852c-0.14245 0.14245-0.14245 0.37175 0 0.5142 0.14245 0.14245 0.37317 0.14245 0.51562 0l3.0852-3.0852 3.0852 3.0852c0.14245 0.14245 0.37175 0.14245 0.5142 0 0.14245-0.14245 0.14245-0.37175 0-0.5142l-3.0852-3.0852 3.0852-3.0866c0.14245-0.14245 0.14245-0.37175 0-0.5142-0.14245-0.14245-0.37175-0.14245-0.5142 0l-3.0852 3.0852-3.0852-3.0852c-0.071224-0.071224-0.16557-0.10653-0.25852-0.10653z"
+     fill="#ffffff"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     stroke-width="1.3606"
+     style="paint-order:markers stroke fill;fill:#809dbd;fill-opacity:1"
+     id="path1822" />
+</svg>

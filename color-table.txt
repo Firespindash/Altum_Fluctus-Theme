@@ -1,0 +1,13 @@
+Color0,#a09f9a,
+Color1,#7699a7,
+Color2,#9ca6a2,
+Color3,#ccbb9f,
+Color4,#d8c5a8,
+Color5,#e6cba8,
+Color6,#a2c0c4,
+Color7,#e5e4dd,
+Color8,#20293f,
+Color9,#4e8e96/#4d8e96,
+Color10,#809dbd,
+Color11,#cbad9d,
+Color12,#f6f4e7
